@@ -1,0 +1,8 @@
+streamlit>=1.49.1
+langchain>=0.3.27
+langchain-community>=0.3.29
+langchain-core>=0.3.75
+PyPDF2>=3.0.1
+faiss-cpu>=1.12.0
+dashscope>=1.24.2
+python-dotenv>=1.1.1
