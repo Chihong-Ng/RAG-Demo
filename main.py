@@ -195,8 +195,6 @@ def main():
             - 可以随时清除数据库重新开始
             """)
 
-# 在终端输入以下命令运行：
-# streamlit run D:\pyproj\langchainRAG\main.py
 
 if __name__ == '__main__':
     main()
