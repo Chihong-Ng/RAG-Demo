@@ -2,7 +2,7 @@
 
 一个基于检索增强生成（RAG）技术的智能文档问答系统，使用LangChain、DeepSeek和Streamlit构建。用户可以通过自然语言与上传的PDF文档进行交互，获取精准的答案。
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://my-rag-demo.streamlit.app/) <!-- 部署后替换为你的实际链接 -->
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://my-rag-demo.streamlit.app/) 
 
 
 ## 功能特点
